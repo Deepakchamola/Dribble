@@ -14,7 +14,7 @@ The Dribble Clone website is a responsive layout designed to mimic the visual st
 - Marquee Effect: Implemented using CSS animations for a smooth infinite flow of text.
 
 ## Preview
-<img src="" with="850" height="400" />
+<img src="https://github.com/Deepakchamola/Dribble/blob/2e441a17a33e7d2e86cde4a78e56cfe7387d8d28/Dribble_ss.png" with="850" height="400" />
 
 ## Live Demo
 Watch the live demo of Dribble Webite clone: [View Live]()
