@@ -17,4 +17,12 @@ The Dribble Clone website is a responsive layout designed to mimic the visual st
 <img src="https://github.com/Deepakchamola/Dribble/blob/2e441a17a33e7d2e86cde4a78e56cfe7387d8d28/Dribble_ss.png" with="850" height="400" />
 
 ## Live Demo
-Watch the live demo of Dribble Webite clone: [View Live]()
+Watch the live demo of Dribble Webite clone: [View Live](https://deepakchamola.github.io/Dribble/)
+
+## License
+This project is open source and available under the MIT License.
+
+## Acknowledgements
+- Inspiration: This project was inspired by the Dribble platform's clean and minimal design. The purpose of this clone is to practice and demonstrate basic frontend development techniques such as layout design and responsiveness.
+- Resources: Special thanks to Sheryians Coding School for providing helpful guidance throughout the development of this project.
+- Icons: Some of the icons used in the design are sourced from Font Awesome, a popular icon library.
